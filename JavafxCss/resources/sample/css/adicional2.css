@@ -1,0 +1,7 @@
+.button{
+    -fx-background-color: yellow;
+}
+
+.habilitado{
+    -fx-background-color: red;
+}

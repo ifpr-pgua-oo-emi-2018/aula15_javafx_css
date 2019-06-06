@@ -1,0 +1,23 @@
+.root{
+    -fx-background-image: url("/sample/images/background.jpg");
+}
+
+.normal{
+    -fx-background-color: green;
+    -fx-cursor: hand;
+}
+
+.media{
+    -fx-background-color: yellow;
+    -fx-cursor: crosshair;
+}
+
+.grande{
+    -fx-background-color: red;
+    -fx-cursor: h_resize;
+}
+
+#btRemove{
+    -fx-graphic: url("/sample/icons/baseline_add_to_queue_black_18dp.png");
+    -fx-padding: 0;
+}
